@@ -1,3 +1,7 @@
+# OtticaFerrari - Retro Release
+
+Questo ramo contiene la versione retrò con stile vintage seppia e font serif.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
