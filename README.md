@@ -1,3 +1,7 @@
+# OtticaFerrari - Modern Release
+
+Questo ramo contiene la versione moderna con tema "Elegant Luxury Light".
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
