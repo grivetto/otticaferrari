@@ -1,3 +1,7 @@
+# OtticaFerrari - Fantasy Release
+
+Questo ramo contiene la versione fantasy con stile cyber‑punk neon.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
